@@ -11,6 +11,9 @@ public class Variables {
         char gender = 'M';
         boolean isMale = true;
 
+        int x = 50, y = 50, z = 50;
+
+        System.out.println(x+y+z);
         System.out.println(name);
         System.out.println(age);
         System.out.println(amount);
